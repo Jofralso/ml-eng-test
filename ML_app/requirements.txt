@@ -1,0 +1,13 @@
+# requirements.txt
+Flask
+opencv-python
+PyPDF2
+pdf2image
+numpy
+scikit-image
+scikit-learn
+matplotlib
+pandas
+torch
+fastapi
+uvicorn
